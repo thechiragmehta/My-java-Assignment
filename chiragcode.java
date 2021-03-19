@@ -5,9 +5,6 @@
 //Name of work: Assignment 1: The gambling Game
 
 import java.util.*;
-import java.lang.Math;
-
-
 public class MainApplicaton {
     public static void main(String[] args){
     Casino c= new Casino();
